@@ -1,11 +1,11 @@
 # Blog Assets — скриншоты для блога gasymov.de
 
-> Скриншоты из учебных проектов (источник: github.com/Dakalo-Ndonde15 — репо без лицензии, скриншоты публичные imgur).
-> Используются как иллюстрации в статьях блога с атрибуцией.
+> 22 скриншота из учебных IT-проектов (источник: github.com/Dakalo-Ndonde15 — публичные imgur).
+> Используются как иллюстрации статей с атрибуцией источника.
 
-## Структура
-- screenshots/ — все скриншоты (22 шт, по теме статьи)
-- Статьи: AD, VPN, osTicket, Azure NSG, PowerShell
+## Использование
+Ссылка: `https://raw.githubusercontent.com/zur5975-creator/blog-assets/main/screenshots/<файл>`
 
-## Как использовать
-Ссылка на изображение: https://raw.githubusercontent.com/zur5975-creator/blog-assets/main/screenshots/<имя>.png
+## Темы
+- AD: 0i8uApf, 1KRsjI6, 50wszcP, 6QOGzs6, 7UakWMQ, 7gBpNzN, 8BfpT3s, 8o3OfjY, A1V9XJ5, DCFUVrM
+- VPN/osTicket/Azure/PowerShell: остальные 12
